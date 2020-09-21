@@ -1,7 +1,7 @@
 # Savage Full Stack
  
 ## About The Project
-![screenshot](https://www.gabe-dev.com/images/toDoExpress.png)
+![screenshot](https://www.gabe-dev.com/images/savageFullStack.png)
 
 Full Stack 21 Savage fan site
 
